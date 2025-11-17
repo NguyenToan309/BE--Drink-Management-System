@@ -1,7 +1,0 @@
-Flask
-Flask-SQLAlchemy
-marshmallow
-dependency-injector
-mysqlclient
-passlib
-werkzeug
